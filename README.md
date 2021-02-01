@@ -1,4 +1,4 @@
-# modernNetworking
+# Modern Networking
 
 Here we're using Combine framework and Swift UI so the minimum requirement is Xcode 11, iOS 13 and Swift 5.1
 
